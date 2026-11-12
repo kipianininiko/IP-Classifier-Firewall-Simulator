@@ -25,3 +25,6 @@ Firewall-ის წესები:
 | UDP | 53 | ALLOW |
 
 Default Policy: BLOCK
+
+presentation links: [SyberSecurity_Project_BTU.pdf](https://github.com/user-attachments/files/34733300/SyberSecurity_Project_BTU.pdf)
+[SyberSecurity_Project_BTU.pptx](https://github.com/user-attachments/files/34733295/SyberSecurity_Project_BTU.pptx)
